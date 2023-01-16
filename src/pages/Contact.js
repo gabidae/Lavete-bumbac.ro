@@ -20,7 +20,7 @@ function Contact() {
                 </div>
                 <div class="flip-card-back">
                   <h4>Mail</h4>
-                  <p>gabi.dae.gd@gmail.com</p>
+                  <p>gyplandinvestement@yahoo.com</p>
                   <p>Asteptam mesajul tau!</p>
                 </div>
               </div>
@@ -35,7 +35,8 @@ function Contact() {
                 </div>
                 <div class="flip-card-back">
                   <h4>Telefon</h4>
-                  <p>0761 601 042</p>
+                  <p>0785 312 111</p>
+                  <p>0768 426 280</p>
                   <p>Asteptam apelul tau!</p>
                 </div>
               </div>
