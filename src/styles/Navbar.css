@@ -87,10 +87,19 @@
   .navbar .rightSide {
     justify-content: flex-end;
     padding-right: 50px;
+    padding-top: 0px;
   }
 
   .navbar .rightSide button {
     display: inherit;
+  }
+
+  .menuList {
+    justify-content: center;
+  }
+
+  .navbar #open .hiddenLinks {
+    margin-left: -40px;
   }
 }
 
