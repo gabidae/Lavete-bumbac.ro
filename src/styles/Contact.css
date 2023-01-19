@@ -181,6 +181,11 @@ form button {
     flex-direction: column;
   }
 
+  .contact .rightSide {
+    padding-top: 20px;
+    overflow: scroll;
+  }
+
   .contact .rightSide h3 {
     font-size: 30px;
     margin: 0;
