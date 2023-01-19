@@ -1,6 +1,6 @@
 .contact {
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   display: flex;
   margin-top: 100px;
 }
@@ -183,7 +183,6 @@ form button {
 
   .contact .rightSide {
     padding-top: 20px;
-    overflow: scroll;
   }
 
   .contact .rightSide h3 {
