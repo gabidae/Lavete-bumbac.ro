@@ -23,7 +23,7 @@
 .menuItem {
   border-radius: 15px;
   width: 300px;
-  height: 400px;
+  height: auto;
   margin: 20px;
   box-shadow: 0px 3px 15px rgb(27 106 198 / 20%);
 }
@@ -46,6 +46,8 @@
 .menuItem h3 {
   text-align: center;
   margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .menuItem h4 {
@@ -54,7 +56,7 @@
 }
 
 .menuItem p {
-  margin-left: 180px;
+  margin-left: 150px;
   margin-top: 50px;
   font-size: large;
   font-style: bold;
