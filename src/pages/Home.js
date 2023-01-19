@@ -9,7 +9,7 @@ function Home() {
       <div className="headerContainer">
         <h1> Lavete de bumbac </h1>
         <p>
-          Comercializam lavete din bumbac destinate atat profesionistilor cat si
+          Comercializăm lavete din bumbac destinate atât profesioniștilor cât și
           utilizatorilor casnici.
         </p>
         <Link to="/menu">

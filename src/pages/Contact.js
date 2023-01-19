@@ -16,12 +16,12 @@ function Contact() {
             <div class="flip-card">
               <div class="flip-card-inner">
                 <div class="flip-card-front">
-                  <p>Aici ne porti scrie!</p>
+                  <p>Aici ne poți scrie!</p>
                 </div>
                 <div class="flip-card-back">
                   <h4>Mail</h4>
                   <p>gyplandinvestement@yahoo.com</p>
-                  <p>Asteptam mesajul tau!</p>
+                  <p>Așteptăm mesajul tău!</p>
                 </div>
               </div>
             </div>
@@ -31,20 +31,20 @@ function Contact() {
             <div class="flip-card">
               <div class="flip-card-inner">
                 <div class="flip-card-front">
-                  <p>Aici ne porti suna!</p>
+                  <p>Aici ne poți suna!</p>
                 </div>
                 <div class="flip-card-back">
                   <h4>Telefon</h4>
                   <p>0785 312 111</p>
                   <p>0768 426 280</p>
-                  <p>Asteptam apelul tau!</p>
+                  <p>Așteptăm apelul tău!</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        <h3>Metode de plata</h3>
+        <h3>Metode de plată</h3>
         <div className="plata-items">
           <div class="flip-card">
             <div class="flip-card-inner">

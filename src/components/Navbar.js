@@ -18,14 +18,14 @@ function Navbar() {
         </a>
 
         <div className="hiddenLinks">
-          <Link to="/"> Acasa </Link>
+          <Link to="/"> Acasă </Link>
           <Link to="/menu"> Produse </Link>
           {/* <Link to="/about"> Despre noi </Link> */}
           <Link to="/contact"> Contact </Link>
         </div>
       </div>
       <div className="rightSide">
-        <Link to="/"> Acasa </Link>
+        <Link to="/"> Acasă </Link>
         <Link to="/menu"> Produse </Link>
         {/* <Link to="/about"> Despre noi </Link> */}
         <Link to="/contact"> Contact </Link>
