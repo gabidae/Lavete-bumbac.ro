@@ -15,17 +15,19 @@ function Contact() {
           <div className="contactItem">
             <div class="contactCard">
               <h4>Mail</h4>
+              {/* <a href = "mailto:gyplandinvestement@yahoo.com"> </a> */}
               <p>gyplandinvestement@yahoo.com</p>
-              <p>Așteptăm mesajul tău!</p>
             </div>
           </div>
 
           <div className="contactItem">
             <div class="contactCard">
               <h4>Telefon</h4>
+              {/* <a href="tel:0785 312 111"></a>
+              <a href="tel:"></a> */}
               <p>0785 312 111</p>
               <p>0768 426 280</p>
-              <p>Așteptăm apelul tău!</p>
+              <p>0774 036 943</p>
             </div>
           </div>
         </div>

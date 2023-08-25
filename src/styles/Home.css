@@ -62,6 +62,7 @@
   }
 
   .headerContainer {
+    margin-top: 10vh;
     margin-left: 0px;
     border-radius: 10px;
     padding: 10px;
@@ -75,20 +76,20 @@
   }
 
   .headerContainer h1 {
-    font-size: 40px;
+    font-size: 30px;
     height: 30px;
     color: white;
   }
 
   .headerContainer p {
-    font-size: 30px;
+    font-size: 20px;
     color: white;
   }
 
   .headerContainer button {
     background-color: #1b6ac6;
     color: white;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }
 
   .headerContainer button:hover {
