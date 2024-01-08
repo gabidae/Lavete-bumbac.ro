@@ -14,7 +14,7 @@ export const MenuList = [
     name: "Lavete vrac tricot bumbac",
     image: Bulk,
     pachet: "Sac 10 kg tricot/bumbac",
-    price: "30 de lei, fără tva",
+    price: "45 de lei, fără tva",
   },
   {
     name: "Lavete bumbac 30x30 cm",
